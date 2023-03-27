@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Mango",
+      "number": "+38066543456456",
+      "email": "dasd@gmail.copm",
+      "createdAt": 1679945438216,
+      "id": 1
+    },
+    {
+      "name": "Joker",
+      "number": "+38066543456452",
+      "email": "aaa@gmail.com",
+      "createdAt": 1679945454880,
+      "id": 2
+    },
+    {
+      "name": "Kiwi",
+      "number": "+3806654345611",
+      "email": "bbb@gmail.com",
+      "createdAt": 1679945471548,
+      "id": 3
+    },
+    {
+      "name": "Lomi",
+      "number": "+3806654345222",
+      "email": "bro@gmail.com",
+      "createdAt": 1679945860952,
+      "id": 4
+    },
+    {
+      "name": "Bombo",
+      "number": "+3806654342221",
+      "email": "Bombo@gmail.com",
+      "createdAt": 1679945893627,
+      "id": 5
+    },
+    {
+      "name": "Owi",
+      "number": "+3806654343231",
+      "email": "sswas@gmial.com",
+      "createdAt": 1679945930993,
+      "id": 6
+    }
+  ]
+}
